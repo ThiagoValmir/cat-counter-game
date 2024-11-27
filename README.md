@@ -18,28 +18,6 @@ Flutter (2.0 ou superior)
 Um editor de texto como o VS Code ou Android Studio
 Um dispositivo ou emulador configurado para testar o aplicativo.
 
-## Estrutura do projeto
-
-lib/
-├── bloc/
-│   ├── counter_bloc.dart         # Gerenciamento de estados usando Bloc
-│   ├── counter_event.dart        # Eventos relacionados ao contador
-│   └── counter_state.dart        # Estados do contador
-├── pages/
-│   └── counter_page.dart         # Página principal do jogo
-├── main.dart                     # Ponto de entrada do aplicativo
-assets/
-└── images/                       # Imagens dos gatos
-├── cat_1.png
-├── cat_2.jpg
-├── cat_3.png
-├── cat_4.png
-└── cat_5.jpg
-└── cat_6.jpg
-└── cat_7.jpg
-└── cat_8.jpg
-pubspec.yaml                      # Configuração do projeto Flutter
-
 ## Tecnologias utilizadas
 
 Flutter: Framework para desenvolvimento multiplataforma.
